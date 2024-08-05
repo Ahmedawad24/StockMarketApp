@@ -1,0 +1,14 @@
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\bin\Debug\net8.0\CAEvent.exe
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\bin\Debug\net8.0\CAEvent.deps.json
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\bin\Debug\net8.0\CAEvent.runtimeconfig.json
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\bin\Debug\net8.0\CAEvent.dll
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\bin\Debug\net8.0\CAEvent.pdb
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\obj\Debug\net8.0\CAEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\obj\Debug\net8.0\CAEvent.AssemblyInfoInputs.cache
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\obj\Debug\net8.0\CAEvent.AssemblyInfo.cs
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\obj\Debug\net8.0\CAEvent.csproj.CoreCompileInputs.cache
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\obj\Debug\net8.0\CAEvent.dll
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\obj\Debug\net8.0\refint\CAEvent.dll
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\obj\Debug\net8.0\CAEvent.pdb
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\obj\Debug\net8.0\CAEvent.genruntimeconfig.cache
+D:\Courses\C# Mystery\Problem 5\CAEvent\CAEvent\obj\Debug\net8.0\ref\CAEvent.dll
